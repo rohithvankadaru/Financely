@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 90vh;
+}
+
+.p-login {
+    text-align: center;
+    margin: 0;
+    font-weight: 350;
+    font-size: 0.8rem;
+}

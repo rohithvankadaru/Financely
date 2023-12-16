@@ -1,0 +1,28 @@
+.search-input {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    width: 80%;
+    box-shadow: var(--shadow);
+    border-radius: 0.5rem;
+    padding: 0 0.5rem;
+}
+
+.search-input input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 0;
+    outline: none;
+}
+
+.select-input {
+    width: 20%;
+    border-radius: 0.5rem;
+    padding: 0.2rem 0.5rem;
+    box-shadow: var(--shadow);
+}
+
+.select-input > div {
+    border: none !important;
+}
