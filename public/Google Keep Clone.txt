@@ -1,0 +1,8 @@
+Google Keep Clone
+
+
+1. Designed based on Google keep in simplified version.
+2. With Add icon, user can add a note.(Note cannot be empty, Eithor title or content must be filled)
+3. User can edit and delete note.(Title cannot be edited)
+4. Provided a search bar, where a user can search based on titles.
+5. Only after user confirmation, note can be deleted.
